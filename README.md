@@ -6,7 +6,7 @@ Welcome to the Tic-Tac-Toe AI project! In this project, we've implemented a powe
 
 There are two main files in this project:
 1. `tictactoe.py`: Contains all the logic for playing the game and making optimal moves. All required functions have been implemented for a flawless gaming experience.
-2. `runner.py`: Implements the graphical interface for the game. After completing the functions in `tictactoe.py`, you can run `python runner.py` to play against the AI!
+2. `runner.py`: Implements the graphical interface for the game.Run `python runner.py` to play against the AI!
 
 ## Functions
 
