@@ -35,9 +35,6 @@ The following functions have been successfully implemented in `tictactoe.py`:
 - If you play optimally as well, the game will end in a tie.
 - The AI will never lose if it plays optimally.
 
-## Contribution
-
-We welcome contributions from the open-source community to improve and expand the project further. Feel free to fork this repository, submit pull requests, or share ideas to enhance the AI's capabilities and improve the game experience.
 
 ## License
 
