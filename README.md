@@ -1,6 +1,6 @@
 # Tic-Tac-Toe AI - Play Against the Optimal AI!
 
-Welcome to the Tic-Tac-Toe AI project! In this project, we've implemented a powerful AI that plays Tic-Tac-Toe optimally using the Minimax algorithm. The AI will never lose a game if it plays optimally, and you can test your skills by playing against it!
+Welcome to the Tic-Tac-Toe AI project! In this project, we've implemented an AI that plays Tic-Tac-Toe optimally using the Minimax algorithm. The AI will never lose a game if it plays optimally, and you can test your skills by playing against it!
 
 ## Project Files
 
